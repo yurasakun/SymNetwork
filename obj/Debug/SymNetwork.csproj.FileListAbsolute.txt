@@ -1,0 +1,7 @@
+C:\Users\Yurik\source\repos\SymNetwork\SymNetwork\bin\Debug\SymNetwork.exe.config
+C:\Users\Yurik\source\repos\SymNetwork\SymNetwork\bin\Debug\SymNetwork.exe
+C:\Users\Yurik\source\repos\SymNetwork\SymNetwork\bin\Debug\SymNetwork.pdb
+C:\Users\Yurik\source\repos\SymNetwork\SymNetwork\obj\Debug\SymNetwork.csprojAssemblyReference.cache
+C:\Users\Yurik\source\repos\SymNetwork\SymNetwork\obj\Debug\SymNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Yurik\source\repos\SymNetwork\SymNetwork\obj\Debug\SymNetwork.exe
+C:\Users\Yurik\source\repos\SymNetwork\SymNetwork\obj\Debug\SymNetwork.pdb
